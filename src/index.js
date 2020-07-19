@@ -1,6 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import MyApp from "./MyApp"
 
+// import StateComponent from "./StateComponent"
+import TodoApp from "./TodoApp"
 
-ReactDOM.render(<MyApp />,document.getElementById("root"))
+ReactDOM.render(<TodoApp />, document.getElementById("root"));
